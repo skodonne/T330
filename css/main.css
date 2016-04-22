@@ -1,0 +1,41 @@
+/* ------ NUMBERS ------ */
+.venue-numbers{
+    text-align: center;
+    position: relative;
+}
+
+.venue-numbers .number-wrapper{
+   display: table;
+   width: 100%;
+   padding-top: 40px;
+   /*border-bottom: 1px solid #515151;*/
+}
+
+.venue-numbers .fact{
+    display: table-cell;
+    width: 25%;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
+.venue-numbers .title{
+    font-family: 'Playfair Display';
+    font-size: 18px;
+    font-style: italic;
+    display: block;
+    font-weight: normal;
+    color: #515151;
+}
+.venue-numbers .number{
+    font-family: 'Raleway';
+    display: block;
+    margin-bottom: 15px;
+    color: #303030;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+/*HOME PAGE */
+#hero2 {
+    text-align: center;
+}
