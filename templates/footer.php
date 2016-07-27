@@ -38,9 +38,8 @@
                     <h2 class="widget-title">HELPFUL LINKS</h2>
                     <ul>
                         <li><a href="#">Site Map</a></li>
-                        <li><a href="#">About Us</a></li>
+                        <li><a href="/contactus">About Us</a></li>
                         <li><a href="/faq">FAQs</a></li>
-                        <li><a href="#">Payment</a></li>
                     </ul>
                 </div>
             </div>

@@ -39,15 +39,15 @@
     </div>
     <!-- /NUMBERS -->
 
-	<div class="section-details">
-		<div class="container">
-			<!-- Product tab -->
+<div class="section-details">
+        <div class="container">
+            <!-- Product tab -->
             <div class="product-tabs">
                 <div class="bz-verticalTab bz-tab bz-tab-style4">
                     <ul class="resp-tabs-list">
-                        <li>Description</li>
-                        <li>Included</li>
-                        <li>Rates</li>
+                        <li id="centralstation-desc">Description</li>
+                        <li id="centralstation-included">Included</li>
+                        <li id="centralstation-rates">Rates</li>
                     </ul>
                     <div class="resp-tabs-container">
                         <!-- DESC -->
@@ -59,31 +59,39 @@
                         <!-- INCLUDED -->
                         <div>
                             <h4>What's Included With Your Rental</h4>
-                            <ul>
-                                <li>Exclusive use of venue space for 8 hours (including all setup and cleanup time)</li>
-                                <li>Professional kitchenette and room for caterer needs</li>
-                                <li>Event attendant</li>
-                                <li>Use of four, 6-foot, rectangular tables</li>
-                                <li>Up to 15 60" round tables</li>
-                                <li>In-house chairs for up to 150 guests</li>
-                                <li>Use of six, 30” round highboy tables</li>
-                                <li>Use of four, whiskey barrel highboy tables</li>
-                                <li>1-hour pre-event walkthrough (subject to availability)</li>
-                                <li>Facility clean up fee</li>
-                                <li>Private entrance with elevator access</li>
-                            </ul>
+                            <div class="col-sm-6">
+                                <ul>
+                                    <li>Exclusive use of venue space (including all setup and cleanup time)</li>
+                                    <li>Professional warming kitchen and room for caterer needs</li>
+                                    <li>Event Staff</li>
+                                    <li>Use of four, 6-foot, rectangular tables</li>
+                                    <li>Up to 15 60" round tables</li>
+                                </ul>
+                            </div>
+                            <div class="col-sm-6">
+                                <ul>
+                                    <li>In-house chairs for up to 150 guests</li>
+                                    <li>Use of upholstered lounge furniture (cleaning fee applies)</li>
+                                    <li>Use of six, 30” round highboy tables</li>
+                                    <li>Top of the line built in audio for ceremonies, presentations and a variety of music options.</li>                                    
+                                    <li>Facility clean up fee</li>
+                                    <li>Secured private space/green room</li>
+                                </ul>
+                            </div>
+
                         </div>
                         <!-- ./INCLUDED -->
                         <!-- RATES -->
                         <div>
-                            RATES
+                            <h5>Rates starting at $2,500 - $8,000. Inquire below for pricing!</h5>
+                            <a id="eventButton" class="button primary round-icon" href=""><span class="icon fa fa-paper-plane-o"></span>TELL US ABOUT YOUR EVENT</a>
                         </div>
                         <!-- REVIEW -->
                     </div>
                 </div>
             </div>
-		</div>
-	</div>
+        </div>
+    </div>
 
 
 

@@ -197,12 +197,7 @@
                         </div>
                         <div class="pf-info text-center">
                             <div class="pf-content-info">    
-                                <h3 class="pf-title"><a href="#">Upholstered Furniture Available</a></h3>
-                                <ul class="pf-social">
-                                    <li><a href="#"><i class="fa fa-link"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-search"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-share"></i></a></li>
-                                </ul>
+                                <h3 class="pf-title">Upholstered Furniture Available</h3>
                             </div>
                         </div>
                     </div>
@@ -217,11 +212,6 @@
                             <div class="pf-content-info">    
                                 <h3 class="pf-title">Dance the night away</h3>
                                 <div class="pf-cat"><a href="/wedding">Weddings</a></div>
-                                <ul class="pf-social">
-                                    <li><a href="#"><i class="fa fa-link"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-search"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-share"></i></a></li>
-                                </ul>
                             </div>
                         </div>
                     </div>
@@ -235,11 +225,6 @@
                         <div class="pf-info text-center">
                             <div class="pf-content-info">    
                                 <h3 class="pf-title">Beautiful Layouts</h3>
-                                <ul class="pf-social">
-                                    <li><a href="#"><i class="fa fa-link"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-search"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-share"></i></a></li>
-                                </ul>
                             </div>
                         </div>
                     </div>
@@ -254,11 +239,6 @@
                             <div class="pf-content-info">    
                                 <h3 class="pf-title">Collaborative Breakout Groups</h3>
                                 <div class="pf-cat"><a href="/meetings">Meetings</a></div>
-                                <ul class="pf-social">
-                                    <li><a href="#"><i class="fa fa-link"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-search"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-share"></i></a></li>
-                                </ul>
                             </div>
                         </div>
                     </div>
