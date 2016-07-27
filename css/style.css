@@ -3453,7 +3453,7 @@ img.alignleft {
 	border-radius: 0;
 }
 .resp-vtabs ul.resp-tabs-list{width: 20%;display: inline-block;}
-.resp-vtabs .resp-tabs-container{width: 80%;float: left; padding-left: 20px}
+.resp-vtabs .resp-tabs-container{width: 80%;float: left; padding-left: 20px; padding-top: 15px;}
 /*---------LIST--------*/
 .bz-list li{
 	list-style: none;
@@ -4942,7 +4942,7 @@ HOME SLIDE
     background-image: url(../images/home/popup_384x470.jpg);
 }
 .provide-style1 .item-provide.bg5 .provice-title{
-    background-image: url(../images/provide5.png);
+    background-image: url(../images/home/holidayparty_384x470.jpg);
 }
 
 .provide-style1 .item-provide.bg6 .provice-title{
@@ -7283,6 +7283,21 @@ HOME SLIDE
     margin: 0 5px;
     font-size: 14px;
 }
+
+/*----------------------
+VENDORS PAGE
+-----------------------*/
+.banner-header.banner-vendors{
+    background-image: url(../images/heros/vendors_hero_1920x620.jpg);
+}
+
+/*----------------------
+MEETINGS PAGE
+-----------------------*/
+.banner-header.page-meetings{
+    background-image: url(../images/heros/meetings_hero_1920x1168.jpg);
+}
+
 /*----------------------
 FAQ PAGE
 -----------------------*/
@@ -7303,28 +7318,24 @@ CENTRALSTATION PAGE
     background-image: url(../images/centralstation/hero1_1920x620.jpg);
 }
 
-.section-paralax-cellar{
-    padding: 145px 0;
-    color: #fff;
-    background-image: url(../images/centralstation/cellar_1720x1071.jpg);
-}
 
-.section-paralax-cellar .section-content .title, .section-paralax-cellar .section-content .subtitle {
-    color: #FFF;
-}
 
 /*----------------------
 CELLAR PAGE
 -----------------------*/
 .banner-header.banner-cellar{
-    background-image: url(../images/cellar/hero1_1920x620.jpg);
+    background-image: url(../images/cellar/hero2_1920x620.jpg);
+}
+
+.banner-header.banner-faq {
+        background-image: url(../images/heros/faq_hero_1920x620.jpg);
 }
 
 /*----------------------
 CONTACT PAGE
 -----------------------*/
 .banner-header.banner-contact{
-    background-image: url(../images/contact/bricks.jpg);
+    background-image: url(../images/contact/speakers_1920x620.jpg);
 }
 .form-contact input[type="text"], 
 .form-contact input[type="email"], 

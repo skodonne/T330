@@ -2,7 +2,7 @@
     <header class="header header-fullwidth">
         <div class="header-container">
             <div class="logo">
-                <a href="#"><img src="images/logos/logo-corporate.png" alt="" /></a>
+                <a href="/"><img src="images/logos/logo-corporate.png" alt="" /></a>
             </div>
             <div class="t-main-menu bz-main-mennu">
                 <nav class="main-menu">
@@ -13,25 +13,25 @@
                         <li class="menu-item-has-children">
                             <a href="#">VENUE</a>
                             <ul class="sub-menu">
-                                <li><a href="centralstation">Central Station</a></li>
+                                <li><a href="centralstation">Main Event Space: Central Station</a></li>
                                 <li><a href="cellar">The Cellar</a></li>
-                                <li><a href="#">The Terrace</a></li>
+                                <!--<li><a href="#">The Terrace</a></li>-->
                             </ul>
                         </li>
                         <li class="menu-item-has-children">
                             <a href="#">EVENTS</a>
                             <ul class="sub-menu">
-                                <li><a href="#">Social Parties</a></li>
-                                <li><a href="#">Meetings</a></li>
+                                <!--<li><a href="#">Social Parties</a></li>-->
+                                <li><a href="meetings">Meetings</a></li>
                                 <li><a href="wedding">Weddings</a></li>
-                                <li><a href="#">Pop Up Retail</a></li>
-                                <li><a href="#">Automotive</a></li>
+                              <!--<li><a href="#">Pop Up Retail</a></li>
+                                <li><a href="#">Automotive</a></li>-->
                             </ul>
                         </li>
-                        <li class="menu-item-has-children">
-                            <a href="blog-style1.html">Vendors</a>
+                        <li>
+                            <a href="vendors">Vendors</a>
                         </li>
-                        <li class="menu-item-has-children">
+                        <li>
                             <a href="contactus">CONTACT</a>
                         </li>
                     </ul>

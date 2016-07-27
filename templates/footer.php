@@ -2,7 +2,6 @@
     <div class="container">
         <div class="footer-info">
             <a class="logo" href="#"><img src="images/logos/logo.png" alt="Terminus 330 Atlanta Logo" /></a>
-            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique </p>
             <div class="footer-social">
                 <a href="https://www.facebook.com/terminus330" target="_blank"><i class="fa fa-facebook"></i></a>
                 <a href="https://twitter.com/terminus330" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -39,10 +38,8 @@
                     <h2 class="widget-title">HELPFUL LINKS</h2>
                     <ul>
                         <li><a href="#">Site Map</a></li>
-                        <li><a href="#">Search Terms</a></li>
-                        <li><a href="#">Advanced Search</a></li>
                         <li><a href="#">About Us</a></li>
-                        <li><a href="#">FAQs</a></li>
+                        <li><a href="/faq">FAQs</a></li>
                         <li><a href="#">Payment</a></li>
                     </ul>
                 </div>
@@ -50,3 +47,27 @@
         </div>
     </div>
 </div>
+
+<script type="text/javascript" src="https://gatherhere.com/js/leadform.js" id="gather-loader" data-locationid="pskbls00" data-trigger="eventButton"></script>
+<script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
+<script type="text/javascript" src="js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="js/owl.carousel.min.js"></script>
+<script type="text/javascript" src="js/chosen.jquery.min.js"></script>
+<script type="text/javascript" src="js/Modernizr.js"></script>
+<script type="text/javascript" src="js/jquery.countTo.js"></script>
+<script type="text/javascript" src="js/jquery.parallax-1.1.3.js"></script>
+<script type="text/javascript" src="js/jquery.easing.min.js"></script>
+<script type="text/javascript" src="js/jquery.easypiechart.min.js"></script>
+<script type="text/javascript" src="js/jquery.debouncedresize.js"></script>
+<script type="text/javascript" src="js/easyResponsiveTabs.js"></script>
+<script type="text/javascript" src="js/lightbox.min.js"></script>
+<script type="text/javascript" src="js/jquery.flexslider-min.js"></script>
+<script type="text/javascript" src="js/jquery.mb.YTPlayer.js"></script>
+<script type="text/javascript" src="js/jquery.countdown.min.js"></script>
+<script type="text/javascript" src="js/isotope.pkgd.min.js"></script>
+<script type="text/javascript" src="js/masonry.pkgd.min.js"></script>
+<script type="text/javascript" src="js/imagesloaded.pkgd.min.js"></script>
+<script type="text/javascript" src="js/portfolio.js"></script>
+<script type="text/javascript" src="js/blog-masonry.js"></script>
+<script type="text/javascript" src="js/masonry.js"></script>
+<script type="text/javascript" src="js/custom.js"></script>

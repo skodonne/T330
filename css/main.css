@@ -39,3 +39,28 @@
 #hero2 {
     text-align: center;
 }
+
+
+/*ADDITION HEROES*/
+
+.bg-parallax-addition .section-content .title, .section-paralax-cellar .section-content .subtitle { /*STANDARD*/
+    color: #FFF;
+}
+
+.section-paralax-itevents { /* IRENE TYNDALE EVENTS */
+     background-image: url(../images/wedding/brideonsofa_1720x1071.jpg);
+      padding: 145px 0;
+    color: #fff;
+}
+
+.section-paralax-cellar{ /*CELLAR ADDITION */
+    padding: 145px 0;
+    color: #fff;
+    background-image: url(../images/centralstation/cellar_1720x1071.jpg);
+}
+
+
+
+.section-paralax-cellar .section-content .title, .section-paralax-cellar .section-content .subtitle {
+    color: #FFF;
+}

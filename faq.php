@@ -11,7 +11,6 @@
         <div class="container">
             <div class="banner-content">
                 <h2 class="page-title">FAQ</h2>
-                <span class="page-desc">Lorem Ipsum</span>
             </div>
         </div>
     </div>
@@ -36,7 +35,7 @@
                         </div>
                         <h3>Can I bring in my own bartenders and/or alcohol?</h3>
                         <div class="acordion-content">
-                            <p>All beverage service at T330 will be exclusively provided through our in-house bar program. We have several options to cater to different needs of our clients. Our packages offer guests an assortment wines and local craft beer options that are seasonally selected.</p>
+                            <p>No. All beverage service at T330 is exclusively provided by us. We have several options to cater to different needs of our clients. Our packages offer guests an assortment of wines, spirits and local craft beer options that are seasonally selected and available to you on tap!</p>
                         </div>
                         <h3>Is there a beverage minimum?</h3>
                         <div class="acordion-content">
@@ -48,7 +47,7 @@
                         </div>
                         <h3>What other services do you provide?</h3>
                         <div class="acordion-content">
-                            <p>T330 provides full service packages, exclusive bar packages, in-house table and chairs, A/V equipment, furniture rental, and day-of coordination services.</p>
+                            <p>T330 provides exclusive bar packages, tables and chairs, A/V equipment, catering, floral and decor, furniture and other rentals, and coordination services.</p>
                         </div>
                         <h3>What size linens will I need to rent for the tables?</h3>
                         <div class="acordion-content">
@@ -56,11 +55,11 @@
                         </div>
                         <h3>Is there a private room/bridal suite on-site?</h3>
                         <div class="acordion-content">
-                            <p>Yes, there are many ways to use the private suite in the rear of the venue.</p>
+                            <p>Yes, there are many ways to use the private suite in the rear of the venue from a bridal suite to a quiet area to make calls at a corporate conference to a smaller break out room.</p>
                         </div>
                         <h3>Where is parking?</h3>
                         <div class="acordion-content">
-                            <p>Parking is available across the street as well as The Garden Inn parking deck. Valet service is available upon request.</p>
+                            <p>Parking is plentiful and available across the street in surface lots or at The Garden Inn parking deck and may be reserved with signage upon request. Valet service is also available upon request.</p>
                         </div>
                         <h3>Is the building wheelchair accessible?</h3>
                         <div class="acordion-content">
@@ -68,11 +67,11 @@
                         </div>
                         <h3>Can I put a hold on a date?</h3>
                         <div class="acordion-content">
-                            <p>Yes, the hold fee is $1,200 and is refundable up to 7 business days. If the date is booked the fee will be put towards the balance of your event.</p>
+                            <p>Yes, the hold fee is $1,200 and is refundable up to 7 calendar days. If the date is booked the fee will be put towards the balance of your event deposit or total. </p>
                         </div>
                         <h3>What are the decoration limitations?</h3>
                         <div class="acordion-content">
-                            <p>Nothing permanent and all candles must be in votives. You are welcome to decorate the venue to fit your needs with any decorations that can be removed, without any harm to the venue.</p>
+                            <p>Nothing permanent and all candles must be in votives. You are welcome to decorate the venue to fit your needs with any decorations that can be removed without any harm to the venue.</p>
                         </div>
                         <h3>Am I required to have a coordinator?</h3>
                         <div class="acordion-content">
@@ -88,7 +87,7 @@
                         </div>
                         <h3>Do you have sound restrictions?</h3>
                         <div class="acordion-content">
-                            <p>No. All music is allowed to end with the completion of your event.</p>
+                            <p>All music is allowed to end with the completion of your event.</p>
                         </div>
                     </div>
                 </div>

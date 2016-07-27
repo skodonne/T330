@@ -5,7 +5,17 @@
 </head>
 <body>
     <?php include "templates/navigation.php" ?>
-	<div class="slide-home bz-video-bg">
+    <!-- SLIDE -->
+    <div class="slide-home imageslide-fullscreen dot-styl2 nav-center-center nav-style2 no-overlay"  data-autoplay="true" data-loop="true" data-nav="false" data-items="1" data-dots="false">
+        <div class="item-homeslide" data-background="images/heros/home_hero_1920x984.jpg">
+            <div class="full-height container">
+                <div class="content-slide text-left content-style2">
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- SLIDE -->
+	<!--<div class="slide-home bz-video-bg">
 		<div id="header_video">
 	        <div id="P2" class="player video-container" data-property="{videoURL:'https://www.youtube.com/watch?v=ZQi1tkYqMQA',containment:'#header_video',autoPlay:true, mute:true, startAt:0, opacity:1,showControls:false}" data-background="images/video-bg.jpg">
 	        </div>
@@ -17,7 +27,7 @@
                 <a id="togglePlay" class="play-button" href="#"><i class='fa fa-pause'></i></a>
 	        </div>
 	    </div>
-	</div>
+	</div>-->
 	<div class="section-wellcome-2">
 		<div class="container">
 			<div class="row">
@@ -29,7 +39,7 @@
 		                <div class="desc-title">Built in 1912 and located in the heart of Downtown Atlanta, this 5,400 square foot venue features original hardwood floors, exposed brick, high ceilings, heavy timber beams and lots of natural light. Terminus 330 is the perfect venue for corporate events, retail pop-ups, holiday parties, weddings, rehearsal dinners, engagement parties, Bar/Bat Mitzvahs, non-profit events, and many other celebrations.</div>
                         <br/>
                         <a href="https://www.venuereport.com/roundups/100-hottest-new-hotel-venue-openings/entry/50/" target="_blank"> 
-                            <img src="https://www.venuereport.com/uploads/Badge/Badge-100HottestVenueList-2.png" alt="Featured on The Venue Report" width="125">
+                            <img src="https://www.venuereport.com/uploads/Badge/Badge-100HottestVenueList-2.png" alt="Featured on The Venue Report" width="200">
                         </a>
 
                     </div>
@@ -40,148 +50,7 @@
 
 		</div>
 	</div>
-    <div class="section-portfolio-3">
-        <div class="bz-portfolio">
-            <div class="portfolio-grid portfolio-style1 pf-hover1" data-cols="4" data-layoutMode="fitRows">
-                <!--ITEM 1-->
-                <div class="item-portfolio photo motion">
-                    <div class="pf-caption">
-                        <div class="pf-image">
-                            <img src="images/home/front_window_480x484.jpg" alt="">
-                        </div>
-                        <div class="pf-info text-center">
-                            <div class="pf-content-info">    
-                                <h3 class="pf-title"><a href="#">PORTLAND OREGON</a></h3>
-                                <div class="pf-cat"><a href="#">Photography</a>, <a href="#">motion</a></div>
-                                <ul class="pf-social">
-                                    <li><a href="#"><i class="fa fa-link"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-search"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-share"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--ITEM 2-->
-                <div class="item-portfolio photo motion">
-                    <div class="pf-caption">
-                        <div class="pf-image">
-                            <img src="images/home/wedding_480x484.jpg" alt="">
-                        </div>
-                        <div class="pf-info text-center">
-                            <div class="pf-content-info">    
-                                <h3 class="pf-title"><a href="#">PORTLAND OREGON</a></h3>
-                                <div class="pf-cat"><a href="#">Photography</a>, <a href="#">motion</a></div>
-                                <ul class="pf-social">
-                                    <li><a href="#"><i class="fa fa-link"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-search"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-share"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--ITEM 3-->
-                <div class="item-portfolio photo motion">
-                    <div class="pf-caption">
-                        <div class="pf-image">
-                            <img src="images/home/private_room_480x484.jpg" alt="">
-                        </div>
-                        <div class="pf-info text-center">
-                            <div class="pf-content-info">    
-                                <h3 class="pf-title"><a href="#">PORTLAND OREGON</a></h3>
-                                <div class="pf-cat"><a href="#">Photography</a>, <a href="#">motion</a></div>
-                                <ul class="pf-social">
-                                    <li><a href="#"><i class="fa fa-link"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-search"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-share"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--ITEM 4-->
-                <div class="item-portfolio photo motion">
-                    <div class="pf-caption">
-                        <div class="pf-image">
-                            <img src="images/home/private_room_480x484.jpg" alt="">
-                        </div>
-                        <div class="pf-info text-center">
-                            <div class="pf-content-info">    
-                                <h3 class="pf-title"><a href="#">PORTLAND OREGON</a></h3>
-                                <div class="pf-cat"><a href="#">Photography</a>, <a href="#">motion</a></div>
-                                <ul class="pf-social">
-                                    <li><a href="#"><i class="fa fa-link"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-search"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-share"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-	<!--<div class="margin-top-100 block-text-photo">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-6">
-                    <h2>Best solution  for your Project</h2>
-                    <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et </p>
-                    <p>Expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est,</p>
-                    <a href="#" class="button dark">READ MORE</a>
-                </div>
-            </div>
-        </div>
-    </div>-->
-	
-    <div class="section-feature-3">
-        <div class="container">
-            <div class="section-title title-style5 text-center">
-                <h2 class="title">Centrally Located and Close to Everything</h2>
-            </div>
-            <div class="row">
-                <div class="col-sm-4">
-                    <div class="bz-element-icon element-icon-4 bg-icon">
-                        <span class="icon fa fa-users"></span>
-                        <h4><a href="#">Tourist Attractions</a></h4>
-                        <p>Located within 2 blocks of Atlanta's top attractions including: the Georgia Aquarium, World of Coke, Centennial Olympic Park, College Football Hall of Fame,  &amp; CNN Center. </p>
-                    </div>
-                    <div class="bz-element-icon element-icon-4 bg-icon">
-                        <span class="icon fa fa-bed"></span>
-                        <h4><a href="#">Hotels</a></h4>
-                        <p>Walk a few blocks back to your hotel - T330 has over 6 big hotels located within 2 blocks.</p>
-                    </div>
-                    <div class="bz-element-icon element-icon-4 bg-icon">
-                        <span class="icon fa flaticon-restaurant60"></span>
-                        <h4><a href="#">Restaurants</a></h4>
-                        <p>Plenty to eat right around the venue - over twenty restaurants within walking distance.</p>
-                    </div>
-                </div>
-                <div class="col-sm-4 text-center">
-                    <figure><img src="images/home/map_323x594.jpg" alt=""></figure>
-                </div>
-                <div class="col-sm-4">
-                    <div class="bz-element-icon element-icon-4 bg-icon">
-                        <span class="icon fa fa-globe"></span>
-                        <h4><a href="#">Georgia World Congress Center</a></h4>
-                        <p>Only a short walk to Atlanta's largest convention center, our location is perfect for pop up shops or client appreciation events while you are in town.</p>
-                    </div>
-                    <div class="bz-element-icon element-icon-4 bg-icon">
-                        <span class="icon fa fa-shopping-cart"></span>
-                        <h4><a href="#">AmericasMart</a></h4>
-                        <p>Make the most out of market, and let us help you host a pop up shop or client appreciation event.</p>
-                    </div>
-                    <div class="bz-element-icon element-icon-4 bg-icon">
-                        <span class="icon fa fa-futbol-o"></span>
-                        <h4><a href="#">GEORGIA DOME & PHILIPS ARENA</a></h4>
-                        <p>Catch the big game or a show within walkin distance of the ultimate pregame location.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    <!--TYPES OF EVENTS -->
     <div class="section-10">
         <div class="bz-list-provide provide-style1 five-column">
             <div class="item-provide bg1">
@@ -222,7 +91,7 @@
                 </div>
                 <div class="content-hover">
                     <h2 class="title-provice">Weddings</h2>
-                    <p>Celebrate the day of your dreams with us. Terminus 330 offers a stunningly historic setting for an unforgettable wedding. Explore urban spaces, expansive ceilings, hardwood floors, exposed brick, and a gorgeous mezzanine overlooking the historic train tracks of West Atlanta.</p>
+                    <p>Celebrate the day of your dreams with us. Terminus 330 offers a stunningly historic setting for an unforgettable wedding. Explore urban spaces, expansive ceilings, hardwood floors, exposed brick, and a gorgeous mezzanine overlooking the historic train tracks of Atlanta.</p>
                     <a href="wedding" class="link-readmore">Learn More <i class="fa fa-long-arrow-right"></i></a>
                 </div>
             </div>
@@ -235,27 +104,170 @@
                     </div>
                 </div>
                 <div class="content-hover">
-                    <h2 class="title-provice">Pop Up Retail</h2>
-                    <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui</p>
-                    <a href="#" class="link-readmore">Learn More<i class="fa fa-long-arrow-right"></i></a>
+                    <h2 class="title-provice">Pop-Up Retail</h2>
+                    <p>What do you get when you combine 5,400 square feet of wide-open, eye-popping space with Atlanta's best location for attracting your buyers (a lot of them)? SUCCESS!</p>
+                    <a href="/contactus" class="link-readmore">Reserve Your Pop Up<i class="fa fa-long-arrow-right"></i></a>
                 </div>
             </div>
             <div class="item-provide bg5">
                 <div class="provice-title">
                     <div class="bz-table">
                         <div class="bz-table-cell">
-                            <h2>Automotive</h2>
+                            <h2>Holiday Parties</h2>
                         </div>
                     </div>
                 </div>
                 <div class="content-hover">
-                    <h2 class="title-provice">Automotive</h2>
-                    <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui</p>
-                    <a href="#" class="link-readmore">Learn More<i class="fa fa-long-arrow-right"></i></a>
+                    <h2 class="title-provice">Holiday Parties</h2>
+                    <p>Celebrate the holidays in surroundings that are the epitome of comfort, warmth and style. We pull out all the stops to ensure that your team has a one of a kind experience they will not soon forget. Great food, elevated beverage offerings, seasonal decor and so much more are all at your fingertips!</p>
+                    <a id="eventButton" href="/contactus" class="link-readmore">Contact Us<i class="fa fa-long-arrow-right"></i></a>
                 </div>
             </div>
         </div>
     </div>
+
+	<!--<div class="margin-top-100 block-text-photo">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    <h2>Best solution  for your Project</h2>
+                    <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et </p>
+                    <p>Expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est,</p>
+                    <a href="#" class="button dark">READ MORE</a>
+                </div>
+            </div>
+        </div>
+    </div>-->
+	
+    <div class="section-feature-3">
+        <div class="container">
+            <div class="section-title title-style5 text-center">
+                <h2 class="title">Centrally Located ~ Close to Everything</h2>
+            </div>
+            <div class="row">
+                <div class="col-sm-4">
+                    <div class="bz-element-icon element-icon-4 bg-icon">
+                        <span class="icon fa fa-users"></span>
+                        <h4><a href="#">Tourist Attractions</a></h4>
+                        <p>Located within 2 blocks of Atlanta's top attractions including: the Georgia Aquarium, World of Coke, Centennial Olympic Park, College Football Hall of Fame,  &amp; CNN Center. </p>
+                    </div>
+                    <div class="bz-element-icon element-icon-4 bg-icon">
+                        <span class="icon fa fa-bed"></span>
+                        <h4><a href="#">Hotels</a></h4>
+                        <p>Walk a few blocks back to your hotel - T330 has over 6 full service hotels located within 2 blocks.</p>
+                    </div>
+                    <div class="bz-element-icon element-icon-4 bg-icon">
+                        <span class="icon fa flaticon-restaurant60"></span>
+                        <h4><a href="#">Restaurants</a></h4>
+                        <p>Awesome eats - over 20 restaurants within walking distance.</p>
+                    </div>
+                </div>
+                <div class="col-sm-4 text-center">
+                    <figure><img src="images/home/map_323x594.jpg" alt=""></figure>
+                </div>
+                <div class="col-sm-4">
+                    <div class="bz-element-icon element-icon-4 bg-icon">
+                        <span class="icon fa fa-globe"></span>
+                        <h4><a href="#">Georgia World Congress Center</a></h4>
+                        <p>A short walk to Atlanta's largest convention center, our location is perfect for pop-up shops or client appreciation events while you are in town.</p>
+                    </div>
+                    <div class="bz-element-icon element-icon-4 bg-icon">
+                        <span class="icon fa fa-shopping-cart"></span>
+                        <h4><a href="#">AmericasMart</a></h4>
+                        <p>Make the most out of market, and let us help you host a pop-up shop or client appreciation event.</p>
+                    </div>
+                    <div class="bz-element-icon element-icon-4 bg-icon">
+                        <span class="icon fa fa-futbol-o"></span>
+                        <h4><a href="#">GEORGIA DOME & PHILIPS ARENA</a></h4>
+                        <p>Catch the big game or a show within walking distance of the ultimate pregame location.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- PHOTO GALLERY -->
+    <div class="section-portfolio-3">
+        <div class="bz-portfolio">
+            <div class="portfolio-grid portfolio-style1 pf-hover1" data-cols="4" data-layoutMode="fitRows">
+                <!--ITEM 1-->
+                <div class="item-portfolio photo motion">
+                    <div class="pf-caption">
+                        <div class="pf-image">
+                            <img src="images/home/front_window_480x484.jpg" alt="">
+                        </div>
+                        <div class="pf-info text-center">
+                            <div class="pf-content-info">    
+                                <h3 class="pf-title"><a href="#">Upholstered Furniture Available</a></h3>
+                                <ul class="pf-social">
+                                    <li><a href="#"><i class="fa fa-link"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-search"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-share"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--ITEM 2-->
+                <div class="item-portfolio photo motion">
+                    <div class="pf-caption">
+                        <div class="pf-image">
+                            <img src="images/home/wedding_480x484.jpg" alt="">
+                        </div>
+                        <div class="pf-info text-center">
+                            <div class="pf-content-info">    
+                                <h3 class="pf-title">Dance the night away</h3>
+                                <div class="pf-cat"><a href="/wedding">Weddings</a></div>
+                                <ul class="pf-social">
+                                    <li><a href="#"><i class="fa fa-link"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-search"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-share"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--ITEM 3-->
+                <div class="item-portfolio photo motion">
+                    <div class="pf-caption">
+                        <div class="pf-image">
+                            <img src="images/home/farmtable_480x484.jpg" alt="">
+                        </div>
+                        <div class="pf-info text-center">
+                            <div class="pf-content-info">    
+                                <h3 class="pf-title">Beautiful Layouts</h3>
+                                <ul class="pf-social">
+                                    <li><a href="#"><i class="fa fa-link"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-search"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-share"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--ITEM 4-->
+                <div class="item-portfolio photo motion">
+                    <div class="pf-caption">
+                        <div class="pf-image">
+                            <img src="images/home/cellarsportsfan_480x484.jpg" alt="">
+                        </div>
+                        <div class="pf-info text-center">
+                            <div class="pf-content-info">    
+                                <h3 class="pf-title">Collaborative Breakout Groups</h3>
+                                <div class="pf-cat"><a href="/meetings">Meetings</a></div>
+                                <ul class="pf-social">
+                                    <li><a href="#"><i class="fa fa-link"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-search"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-share"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
     <div class="section-11">
         <div class="container">
             <div class="col-md-6 col-sm-12 text-center">
@@ -265,8 +277,8 @@
                 <div class="section-title title-style4 text-left">
                     <h1 class="title fz43">A Sense of <span>History</span></h1>
                     <div class="desc-title">
-                        <p>Our building was constructed in 1912 to stand as the Maddox Coffee Company. Situated right on the railroad, the building held its own platform accepting the daily deliveries of coffee to be dispersed into the city. Some of the original pieces including the heart of pine floors still exist in the venue today.</p>
-                        <p>In 1836, Georgia decided to build a railroad to the Midwest and a location was chosen to be the line’s terminus. As the area developed, the settlement became known as “Terminus.” The town was eventually incorporated as “Atlanta” in 1847. The City of Atlanta got it’s start as the meeting point for the railroad and Terminus 330 is excited to be Atlanta’s premiere event space where families, friends, and co-workers get together for special events.</p>
+                        <p>Our turn-of-the-century structure was originally constructed for the Maddox Coffee Company in 1912. Situated along Atlanta's heritage railway, the property included its own platform from which both goods and deliveries were received and shipped. Most all of the original structure exists today and has been lovingly restored over the past decade.</p>
+                        <p>In 1836, the state of Georgia undertook the ambitious project of building a railroad to connect it to the Midwest and a location was chosen to be the line's terminus. As this area became developed the settlement became known as "Terminus." The town was eventually incorporated as Atlanta in 1847. The City of Atlanta got its start as the end point for this historic line and as such Terminus 330 is excited to be Atlanta's premier in-town event venue, where families, friends and co-workers get together right along those very same tracks.</p>
                     </div>
                 </div>
             </div>
@@ -276,10 +288,10 @@
         <div class="overlay"></div>
         <div class="container">
             <div class="bz-video-lightbox text-center">
-                <h2 class="text-italic playfair-display">Trending ideas and inventions always make us feel proud</h2>
-                <a href="#" class="link-lightbox" data-videoid="134060140" data-videosite="vimeo">
+                <h2 class="text-italic playfair-display">Magic begins where the tracks end at Terminus 330</h2>
+               <!-- <a href="#" class="link-lightbox" data-videoid="134060140" data-videosite="vimeo">
                     <span class="ts-button-lightbox"></span>
-                </a>
+                </a>-->
             </div>
         </div>
     </div>
@@ -302,14 +314,15 @@
                         <a style="border-width: 1px; border-color: rgb(232, 232, 232); color: rgb(48, 48, 48);" data-border_width="1px" data-boder_color="#e8e8e8" data-border_hover_color="#5e599d" data-bg="" data-bghover="" data-text_color="#303030" data-text_color_hover="#5e599d" href="#" class="button-custom">SEE MORE</a>
                     </div>
                 </div>
-                <div class="col-sm-4">
+
+                <!--<div class="col-sm-4">
                     <div class="bz-service-image service-style5">
                         <h3>The Terrace</h3>
                         <figure><img alt="The Terrace at Terminus 330" src="images/home/terrace_370x250.jpg"></figure>
                         <div class="desc-service">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</div>
                         <a style="border-width: 1px; border-color: rgb(232, 232, 232); color: rgb(48, 48, 48);" data-border_width="1px" data-boder_color="#e8e8e8" data-border_hover_color="#5e599d" data-bg="" data-bghover="" data-text_color="#303030" data-text_color_hover="#5e599d" href="#" class="button-custom">SEE MORE</a>
                     </div>
-                </div>
+                </div>-->
             </div>
         </div>
     </div>
@@ -319,7 +332,7 @@
             <div class="section-content text-center">
                 <h1 class="title">T330 CRAFT BEER EXPERIENCE</h1>
                 <h4 class="subtitle playfair-display text-italic">All bar packages feature locally and seasonally selected beer on tap served by our very own beer experts.</h4>
-                <a data-border_width="0px" data-boder_color="#303030" data-border_hover_color="#08b6a0" data-bg="#fff" data-bghover="#08b6a0" data-text_color="#303030" data-text_color_hover="#fff" href="#" class="button-custom round button" >CONTACT US</a>
+                <a id="eventButton" data-border_width="0px" data-boder_color="#303030" data-border_hover_color="#08b6a0" data-bg="#fff" data-bghover="#08b6a0" data-text_color="#303030" data-text_color_hover="#fff" href="" class="button-custom round button" >CONTACT US</a>
             </div>
         </div>
     </div>
@@ -361,38 +374,6 @@
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="contact-form style-2">
-                <form>
-                    <div class="row">
-                        <div class="col-sm-4">
-                            <input type="text" placeholder="* NAME" value="">
-                        </div>
-                        <div class="col-sm-4">
-                            <input type="text" placeholder="* EMAIL" value="">
-                        </div>
-                        <div class="col-sm-4">
-                            <input type="text" placeholder="* PHONE NUMBER" value="">
-                        </div>
-                        <div class="col-sm-4">
-                            <input type="text" placeholder="* EVENT DATE" value="">
-                        </div>
-                        <div class="col-sm-4">
-                            <input type="text" placeholder="GUEST COUNT" value="">
-                        </div>
-                        <div class="col-sm-4">
-                            <input type="text" placeholder="BUDGET" value="">
-                        </div>
-                        <div class="col-sm-12">
-                            <textarea rows="3" cols="30" placeholder="TELL US ABOUT YOUR EVENT"></textarea>
-                        </div>
-                    </div>
-                    <p class="text-right">
-                       <input type="submit" value="SEND" class="">
-                    </p>
-                </form>
             </div>
         </div>
     </div>

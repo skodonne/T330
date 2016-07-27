@@ -16,7 +16,7 @@
                 <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
                     <div class="section-title title-style2 text-center">
                         <h1 class="title">YOUR WEDDING AT TERMINUS 330</h1>
-                        <span class="desc-title">Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellatTemporibus autem quibusdam et aut officiis debitis </span>
+                        <span class="desc-title">Spectacularly glorious moments await on your wedding day at Terminus 330! What drives us is clear; to make your special day fabulous and memorable in all respects. From our very first meeting together to the moment you depart as a married couple, we endeavor to combine joy and fun with a unique sense of purpose.</span>
                     </div>
                 </div>
             </div>
@@ -69,7 +69,7 @@
                 <div class="item-portfolio photo motion">
                     <div class="pf-caption">
                         <div class="pf-image">
-                            <img src="images/wedding/gallery_480x400.jpg" alt="">
+                            <img src="images/wedding/gallery1_480x400.jpg" alt="">
                         </div>
                         <div class="pf-info text-center">
                             <div class="pf-content-info">    
@@ -93,7 +93,7 @@
                 <div class="item-portfolio motion photo">
                     <div class="pf-caption">
                         <div class="pf-image">
-                            <img src="images/centralstation/gallery3_480x400.jpg" alt="">
+                            <img src="images/wedding/gallery3_480x400.jpg" alt="">
                         </div>
                         <div class="pf-info text-center">
                             <div class="pf-content-info">    
@@ -106,6 +106,54 @@
                     <div class="pf-caption">
                         <div class="pf-image">
                             <img src="images/wedding/gallery4_480x400.jpg" alt="">
+                        </div>
+                        <div class="pf-info text-center">
+                            <div class="pf-content-info">    
+                                <a href="#" class="pf-icon"><i class="fa fa-plus"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item-portfolio print-art">
+                    <div class="pf-caption">
+                        <div class="pf-image">
+                            <img src="images/wedding/gallery5_480x400.jpg" alt="">
+                        </div>
+                        <div class="pf-info text-center">
+                            <div class="pf-content-info">    
+                                <a href="#" class="pf-icon"><i class="fa fa-plus"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item-portfolio print-art">
+                    <div class="pf-caption">
+                        <div class="pf-image">
+                            <img src="images/wedding/gallery6_480x400.jpg" alt="">
+                        </div>
+                        <div class="pf-info text-center">
+                            <div class="pf-content-info">    
+                                <a href="#" class="pf-icon"><i class="fa fa-plus"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item-portfolio print-art">
+                    <div class="pf-caption">
+                        <div class="pf-image">
+                            <img src="images/wedding/gallery7_480x400.jpg" alt="">
+                        </div>
+                        <div class="pf-info text-center">
+                            <div class="pf-content-info">    
+                                <a href="#" class="pf-icon"><i class="fa fa-plus"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item-portfolio print-art">
+                    <div class="pf-caption">
+                        <div class="pf-image">
+                            <img src="images/wedding/gallery8_480x400.jpg" alt="">
                         </div>
                         <div class="pf-info text-center">
                             <div class="pf-content-info">    
@@ -141,16 +189,16 @@
                     </div>
                     <div class="inner">
                         <ul>
-                            <li>1-hour rehearsal (time subject to availability)</li>
+                            <li>1-hour Rehearsal (time subject to availability)</li>
                             <li>Bridal Suite</li>
                             <li>Upholstered Lounge Furniture</li>
-                            <li>Use of the Cellar for cocktail hour</li>
-                            <li>150 Mahogany Chiavari chairs</li>
-                            <li>15, 60" Rounds</li>
-                            <li>36" Cake Table</li>
+                            <li>Use of the Cellar for Cocktail Hour with 2 Screens for Photo Slideshow</li>
+                            <li>150 Wood Mahogany Chiavari Chairs</li>
+                            <li>15, 60" Round Tables (linen packages available)</li>
+                            <li>48" Cake Table</li>
                             <li>Uplighting Package</li>
-                            <li>Staff for Ceremony Flip Labor</li>
-                            <li>On-Site Event Manager & Event Attendant</li>
+                            <li>Staff for </li>
+                            <li>Full Event Staff including Ceremony Flip Labor</li>
                         </ul>
                         <a class="pricing-button" href="contactus">Request Quote</a>
                     </div>
@@ -172,14 +220,15 @@
                     </div>
                     <div class="inner">
                         <ul>
-                            <li>Private Suite for Bridal Party</li>
+                            <li>Private Suite for Wedding Party</li>
                             <li>Upholstered Lounge Furniture</li>
-                            <li>Use of the Cellar for cocktail hour</li>
-                            <li>150 Mahogany Chiavari chairs</li>
-                            <li>15, 60" Rounds</li>
-                            <li>36" Cake Table</li>
+                            <li>Use of the Cellar for Cocktail Hour</li>
+                            <li>150 Wood Mahogany Chiavari Chairs</li>
+                            <li>15, 60" Round Tables (linen packages available)</li>
+                            <li>8, Whiskey Barrel Highboys & Square Crafstman Industrial Highboys</li>
+                            <li>48" Cake Table</li>
                             <li>Uplighting Package</li>
-                            <li>On-Site Event Manager & Event Attendant</li>
+                            <li>Full Event Staff</li>
                         </ul>
                         <a class="pricing-button" href="contactus">Request Quote</a>
                     </div>
@@ -197,8 +246,8 @@
                 <div class="col-sm-4">
                     <div class="bz-service-image">
                         <figure><img src="images/centralstation/features1_370x250.jpg" alt="Craft Beer on tap at Terminus 330"></figure>
-                        <h3 class="playfair-display text-italic">Craft Beer on Tap</h3>
-                        <div class="desc-service">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</div>
+                        <h3 class="playfair-display text-italic">Your Wedding. Your Craft Beer</h3>
+                        <div class="desc-service">Ask about our custom brew packages. ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</div>
                         <a class="button-custom" href="#" data-text_color_hover="#08b6a0" data-text_color="#303030" data-bghover="" data-bg="" data-border_hover_color="#08b6a0" data-boder_color="#e8e8e8" data-border_width="1px" style="border-width: 1px; border-color: rgb(232, 232, 232); color: rgb(48, 48, 48);">REQUEST QUOTE</a>
                     </div>
                 </div>
@@ -210,24 +259,19 @@
                         <a class="button-custom" href="#" data-text_color_hover="#08b6a0" data-text_color="#303030" data-bghover="" data-bg="" data-border_hover_color="#08b6a0" data-boder_color="#e8e8e8" data-border_width="1px" style="border-width: 1px; border-color: rgb(232, 232, 232); color: rgb(48, 48, 48);">Download Floorplan</a>
                     </div>
                 </div>
-                <div class="col-sm-4">
-                    <div class="bz-service-image">
-                        <figure><img src="images/centralstation/features2_370x250.jpg" alt=""></figure>
-                        <h3 class="playfair-display text-italic">Full Service Packages</h3>
-                        <div class="desc-service">Make your vision reality!  Full service events bring your vision to life with customized catering and bar packages, personalized décor and furniture design, tailored seating layouts, and cutting edge audio/visual capabilities.</div>
-                        <a class="button-custom" href="#" data-text_color_hover="#08b6a0" data-text_color="#303030" data-bghover="" data-bg="" data-border_hover_color="#08b6a0" data-boder_color="#e8e8e8" data-border_width="1px" style="border-width: 1px; border-color: rgb(232, 232, 232); color: rgb(48, 48, 48);">REQUEST QUOTE</a>
-                    </div>
-                </div>
+
+                 <!--ROOFTOP VIEW-WEDDING BANNER -->
+                <?php include 'banners/rooftopwedding.php'; ?>
             </div>
 		</div>
 	</div>
-	<div class="section-paralax-cellar  bg-parallax">
+	<div class="section-paralax-itevents bg-parallax-addition bg-parallax">
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="section-content text-center">
-				<h1 class="title">A PERFECT ADDITION</h1>
-				<h4 class="subtitle playfair-display text-italic">The Cellar at T330 complements the main level & recieve discount when booking in tandem blah blah</h4>
-				<a data-border_width="0px" data-boder_color="#303030" data-border_hover_color="#08b6a0" data-bg="#fff" data-bghover="#08b6a0" data-text_color="#303030" data-text_color_hover="#fff" href="#" class="button-custom round button">Learn More</a>
+				<h1 class="title">LET US DOT YOUR I's & CROSS YOUR T's</h1>
+				<h4 class="subtitle playfair-display text-italic">Terminus 330 provides full service planning in partnership with Irene Tyndale Events</h4>
+				<a data-border_width="0px" data-boder_color="#303030" data-border_hover_color="#08b6a0" data-bg="#fff" data-bghover="#08b6a0" data-text_color="#303030" data-text_color_hover="#fff" href="http://irenetyndale.com" class="button-custom round button" target="_blank">Learn More</a>
 			</div>
 		</div>
 	</div>
@@ -239,7 +283,7 @@
                     <h3>Stop by for a wedding tour</h3>
                 </div>
                 <div class="promo-right">
-                    <a data-border_width="2px" data-boder_color="#fff" data-border_hover_color="#08b6a0" data-bg="" data-bghover="" data-text_color="#fff" data-text_color_hover="#08b6a0" href="#" class="button-custom medium">CONTACT US</a>
+                    <a data-border_width="2px" data-boder_color="#fff" data-border_hover_color="#08b6a0" data-bg="" data-bghover="" data-text_color="#fff" data-text_color_hover="#08b6a0" href="" id="eventButton" class="button-custom medium">CONTACT US</a>
                 </div>
             </div>
         </div>

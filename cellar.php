@@ -32,7 +32,7 @@
                 <h4 class="title">Seated Dinner</h4>
             </div>
             <div class="fact">
-                <span class="number" data-number="220">70</span>
+                <span class="number" data-number="220">60</span>
                 <h4 class="title">Theater Style</h4>
             </div>
         </div>
@@ -94,7 +94,7 @@
                 <div class="item-portfolio photo motion">
                     <div class="pf-caption">
                         <div class="pf-image">
-                            <img src="images/centralstation/gallery1_480x400.jpg" alt="">
+                            <img src="images/cellar/gallery1_480x400.jpg" alt="">
                         </div>
                         <div class="pf-info text-center">
                             <div class="pf-content-info">    
@@ -106,7 +106,7 @@
                 <div class="item-portfolio motion">
                     <div class="pf-caption">
                         <div class="pf-image">
-                            <img src="images/centralstation/gallery2_480x400.jpg" alt="">
+                            <img src="images/cellar/gallery2_480x400.jpg" alt="">
                         </div>
                         <div class="pf-info text-center">
                             <div class="pf-content-info">    
@@ -118,7 +118,7 @@
                 <div class="item-portfolio motion photo">
                     <div class="pf-caption">
                         <div class="pf-image">
-                            <img src="images/centralstation/gallery3_480x400.jpg" alt="">
+                            <img src="images/cellar/gallery3_480x400.jpg" alt="">
                         </div>
                         <div class="pf-info text-center">
                             <div class="pf-content-info">    
@@ -130,7 +130,7 @@
                 <div class="item-portfolio print-art">
                     <div class="pf-caption">
                         <div class="pf-image">
-                            <img src="images/centralstation/gallery4_480x400.jpg" alt="">
+                            <img src="images/cellar/gallery4_480x400.jpg" alt="">
                         </div>
                         <div class="pf-info text-center">
                             <div class="pf-content-info">    
@@ -149,41 +149,15 @@
                 <h3 class="title">Explore the space</h3>
             </div>
             <div class="row">
-                <div class="col-sm-4">
-                    <div class="bz-service-image">
-                        <figure><img src="images/centralstation/features1_370x250.jpg" alt="Craft Beer on tap at Terminus 330"></figure>
-                        <h3 class="playfair-display text-italic">Craft Beer on Tap</h3>
-                        <div class="desc-service">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</div>
-                        <a class="button-custom" href="#" data-text_color_hover="#08b6a0" data-text_color="#303030" data-bghover="" data-bg="" data-border_hover_color="#08b6a0" data-boder_color="#e8e8e8" data-border_width="1px" style="border-width: 1px; border-color: rgb(232, 232, 232); color: rgb(48, 48, 48);">REQUEST QUOTE</a>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="bz-service-image">
-                        <figure><img src="images/centralstation/features3_370x250.jpg" alt="Flexible Floor Plans at Terminus 330"></figure>
-                        <h3 class="playfair-display text-italic">Flexible Floor Plans</h3>
-                        <div class="desc-service">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</div>
-                        <a class="button-custom" href="#" data-text_color_hover="#08b6a0" data-text_color="#303030" data-bghover="" data-bg="" data-border_hover_color="#08b6a0" data-boder_color="#e8e8e8" data-border_width="1px" style="border-width: 1px; border-color: rgb(232, 232, 232); color: rgb(48, 48, 48);">Download Floorplan</a>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="bz-service-image">
-                        <figure><img src="images/centralstation/features2_370x250.jpg" alt=""></figure>
-                        <h3 class="playfair-display text-italic">Full Service Packages</h3>
-                        <div class="desc-service">Make your vision reality!  Full service events bring your vision to life with customized catering and bar packages, personalized décor and furniture design, tailored seating layouts, and cutting edge audio/visual capabilities.</div>
-                        <a class="button-custom" href="#" data-text_color_hover="#08b6a0" data-text_color="#303030" data-bghover="" data-bg="" data-border_hover_color="#08b6a0" data-boder_color="#e8e8e8" data-border_width="1px" style="border-width: 1px; border-color: rgb(232, 232, 232); color: rgb(48, 48, 48);">REQUEST QUOTE</a>
-                    </div>
-                </div>
+                <!--BOURBON TASTING BANNER -->
+                <?php include 'banners/bourbontasting.php'; ?>
+
+                <!--FLOORPLAN BANNER -->
+                <?php include 'banners/floorplans.php'; ?>
+
+                <!--COKE COOLER BANNER -->
+                <?php include 'banners/cokecooler.php'; ?>
             </div>
-		</div>
-	</div>
-	<div class="section-paralax-cellar  bg-parallax">
-		<div class="overlay"></div>
-		<div class="container">
-			<div class="section-content text-center">
-				<h1 class="title">A PERFECT ADDITION</h1>
-				<h4 class="subtitle playfair-display text-italic">The Cellar at T330 complements the main level & recieve discount when booking in tandem blah blah</h4>
-				<a data-border_width="0px" data-boder_color="#303030" data-border_hover_color="#08b6a0" data-bg="#fff" data-bghover="#08b6a0" data-text_color="#303030" data-text_color_hover="#fff" href="#" class="button-custom round button">Learn More</a>
-			</div>
 		</div>
 	</div>
 	
@@ -191,10 +165,10 @@
         <div class="container">
             <div class="promo promo2">
                 <div class="promo-left">
-                    <h3>Book T330's Central Station For Your Next Event</h3>
+                    <h3>Book T330's Cellar For Your Next Event</h3>
                 </div>
                 <div class="promo-right">
-                    <a data-border_width="2px" data-boder_color="#fff" data-border_hover_color="#08b6a0" data-bg="" data-bghover="" data-text_color="#fff" data-text_color_hover="#08b6a0" href="#" class="button-custom medium">CONTACT US</a>
+                    <a id="eventButton" data-border_width="2px" data-boder_color="#fff" data-border_hover_color="#08b6a0" data-bg="" data-bghover="" data-text_color="#fff" data-text_color_hover="#08b6a0" href="" class="button-custom medium">CONTACT US</a>
                 </div>
             </div>
         </div>
